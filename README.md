@@ -1,0 +1,8 @@
+# Java30Project
+Keeping up to date with Javascript. Developing Javascript real time project based on learning from Wesbos course.
+
+**Project 1:**
+1. Javascript Drum Kit:
+Clicking on keyboard event sound will be triggered.
+Learnings: AddEventListener - keydown, transitionend.
+<img width="655" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/b1c97faf-efce-4757-a5d9-575f121cce0c">
