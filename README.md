@@ -7,6 +7,7 @@ Learnings: AddEventListener - keydown, transitionend.
 <img width="655" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/b1c97faf-efce-4757-a5d9-575f121cce0c">
 
 **Project 2:** Analog clock
+
 Learnings: Date class, Rotate and transistion.
 
 <img width="330" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/74c84082-d7a3-4273-8aab-9982fb177cb1">
