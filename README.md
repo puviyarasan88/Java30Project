@@ -15,8 +15,9 @@ Learnings: Date class, Rotate and transistion.
 
 <img width="330" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/74c84082-d7a3-4273-8aab-9982fb177cb1">
 
-Project 3: CSS Variable with Javascript
+**Project 3: CSS Variable with Javascript**
 
 Learning: CSS - Root varialbe, addEventListener with change
 
-![Alt text](image.png)
+<img width="245" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/be6ee74b-32fc-49e7-9b94-28295c6dc997">
+
