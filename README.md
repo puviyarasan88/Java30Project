@@ -21,3 +21,6 @@ Learning: CSS - Root varialbe, addEventListener with change
 
 <img width="245" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/be6ee74b-32fc-49e7-9b94-28295c6dc997">
 
+Project 4: Arrays and important methods
+
+Learning: Arrays - Filter, Map, Sort methods.
