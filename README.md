@@ -21,6 +21,14 @@ Learning: CSS - Root varialbe, addEventListener with change
 
 <img width="245" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/be6ee74b-32fc-49e7-9b94-28295c6dc997">
 
-Project 4: Arrays and important methods
+**Project 4: Arrays and important methods**
 
 Learning: Arrays - Filter, Map, Sort methods.
+
+**Project 5: Flex panel shrink and extend**
+
+Learnings: flex-box, addEventListener - click and transistionend.
+<img width="940" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/f6cd2b0e-49ce-4189-91e2-301831d4ec64">
+<img width="953" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/98f4e165-82ea-477f-95b6-439c708c9ab0">
+
+
