@@ -31,4 +31,22 @@ Learnings: flex-box, addEventListener - click and transistionend.
 <img width="940" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/f6cd2b0e-49ce-4189-91e2-301831d4ec64">
 <img width="953" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/98f4e165-82ea-477f-95b6-439c708c9ab0">
 
+**Project 6: Type ahead**
+
+Learnings: fetch(endpoints), regex, match method, return html element
+
+<img width="311" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/ac004b83-071e-41cd-8eb1-cc321fd182eb">
+
+Project 7: Array methods
+
+Learnings:some(), every(), find(), findIndex()
+
+**Project 8: Canvas drawing**
+
+Learning: canvas, context, draw in movemovement, hue color, addEventListeners - mousemove, movedown, mouseup, mouseout
+
+<img width="386" alt="image" src="https://github.com/puviyarasan88/Java30Project/assets/20381722/957106a8-5d28-4870-b639-8efc27af92da">
+
+
+
 
